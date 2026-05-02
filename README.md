@@ -56,7 +56,7 @@ After collecting all inputs, it generates a structured and personalized career p
 ---
 
 ## 📄 Documentation
-See `MultiStep_AI_Assistant_Project_Rajendra_Kumar.pdf` for full details.
+See `project.pdf` for full details.
 
 
 

@@ -42,6 +42,7 @@ After collecting all inputs, it generates a structured and personalized career p
 ---
 
 ## 📸 Screenshots
+
 <img width="1366" height="768" alt="Screenshot 2026-05-02 085343" src="https://github.com/user-attachments/assets/f3cd2d3d-c71a-47d1-ac22-d530f486ed37" />
 <img width="1365" height="721" alt="Screenshot 2026-05-02 092710" src="https://github.com/user-attachments/assets/d90b60e0-97c5-45f2-8c09-86bf4845ece6" />
 <img width="1366" height="768" alt="Screenshot 2026-05-02 092734" src="https://github.com/user-attachments/assets/eeb5401a-738b-4dd4-bd70-e6c6a0eb878a" />
